@@ -5,18 +5,18 @@ function footer() {
     <div className="nav">
       <div className="content">
         <div className="nav-logo">
-          <h1 className="h4 m-0">Copyright @ 2020. <a className="alpha" href="https://github.com/shakilofficial0/Heroku-CyberTOR">CyberTOR-Beta</a></h1>
+          <h1 className="h4 m-0">Copyright @ 2021. <a className="alpha" href="https://t.me/ithard">ITHard</a></h1>
         </div>
         <div className="nav-links" style={{flexDirection: "row"}}>
-          <a className="btn primary" href="https://www.facebook.com/shakilofficialdll" style={{color: "#f7fafc"}}>
+          <a className="btn primary" href="https://vk.com/ithardnews" style={{color: "#f7fafc"}}>
     <span className="bnt-icon">
-        <ion-icon name="logo-facebook" />
-      </span> Facebook
+        <ion-icon name="logo-vk" />
+      </span> VK
     </a>
-     <a className="btn" href="https://github.com/shakilofficial0" style={{color: "#f7fafc"}}>
+     <a className="btn" href="https://t.me/ithard" style={{color: "#f7fafc"}}>
     <span className="bnt-icon">
-        <ion-icon name="logo-github" />
-      </span> Github
+        <ion-icon name="logo-telegram" />
+      </span> Telegram
     </a>
         </div>
       </div>
