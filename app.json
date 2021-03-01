@@ -33,7 +33,7 @@
 		},
 		"SEARCH_SITE": {
 			"description": "Full link of your Heroku App with the final /",
-      "value": "https://downithard.herokuapp.com/"
+      "value": "https://torrent-aio-bot.herokuapp.com/"
 			
 		},
     "SITE": {
