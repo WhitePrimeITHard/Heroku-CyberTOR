@@ -7,15 +7,15 @@
   "env": {
 		"AUTH_CODE": {
 			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"http://torrent-aio-bot.herokuapp.com/drivehelp\" for Generate.",
-      			"value": "4/1AY0e-g6SurUAW6m0ONlq_QZGB1BVagxrNu_gJsMoemm9FLFdCrN5IftDni0"
+      			"value": "4/1AY0e-g4IEhRwZ-OEzr2NrL-6XT5wJi6nPo43EGsTTnEVdV_wzVzrTBI8rEY"
 		},
 		"CLIENT_ID": {
 			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"https://developers.google.com/drive/api/v3/quickstart/nodejs\" for Generate.",
-			"value": "73978355132-basq3in7ug8fe35saast5p7i2mfnp45m.apps.googleusercontent.com"
+			"value": "896724286532-sj4ol00366hl25jqu9gik2kt7pdke4do.apps.googleusercontent.com"
 		},
 		"CLIENT_SECRET": {
 			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"https://developers.google.com/drive/api/v3/quickstart/nodejs\" for Generate.",
-			"value": "S9ffflPfc2N2O_SX4zRLw5yVW"
+			"value": "OTsYl-NUtbCwcipaRwjoawm6"
 		},
 		"GDRIVE_PARENT_FOLDER": {
 			"description": "Folder Id of Google.Read Readme.md to know more.",
@@ -38,12 +38,12 @@
 		},
     "SITE": {
 			"description": "Full link of your Heroku App with the /",
-      "value": "https://downithard.herokuapp.com/"
+      "value": "https://itharddown.herokuapp.com/"
 			
 		},
      "TOKEN": {
 			"description": "Drive Auth Code is needed to access in Drive. Need To Generate. go to \"http://torrent-aio-bot.herokuapp.com/drivehelp\" for Generate",
-      "value": "{"access_token":"ya29.A0AfH6SMDyyxJ_zXOLiK0YlqUcLnTSFyezsxRLJXsjkpmKo9igG3To3tcPFJYnFRbFyl41YbiaApeCUe89aZcsVGgCdsCDBG67NellZX4uHumtXRWORSVW4AVKTezKvpfvKIxlFN96cDiEcLZ9-AmZG3sFG9_n","refresh_token":"1//0d8Gmzq8shNYQCgYIARAAGA0SNwF-L9IrzMLdyX4ATEPHNSvJdVepG2zmRyBVDUXS02b2isvLhKMYwrfvJh9wjgfOdUmHN2mwnDw","scope":"https://www.googleapis.com/auth/drive.file https://www.googleapis.com/auth/drive.metadata.readonly","token_type":"Bearer","expiry_date":1614643556216}"
+      "value": "{"access_token":"ya29.A0AfH6SMBHMQtOI_YATUAyX1UlMzezIzOM7ih6ZTdYOUrNfcw6kOGFqHdQSnVGUNJ5ZHT5LvSrxJqB7CvSEI4jPDQax1ZVzUyd8P6zq9JWr44gcoV5GjPdPQFm7oGIz-otzjFTW8lhgpW8wNLF3KvzXosxZP0M","refresh_token":"1//0d-uBIo4A8z2cCgYIARAAGA0SNwF-L9Irn_A9ARA2_k16C6S7Fv03lQ0rWd6NFJ9Djisy2MzuArOZz9fX1DTLWnXagxxXjl4S-uM","scope":"https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/drive.file","token_type":"Bearer","expiry_date":1614648458460}"
 			
 		}
 	},
